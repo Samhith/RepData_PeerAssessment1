@@ -1,7 +1,9 @@
 ---
 title: "Peer Assesment 1"
 author: "K Samhith"
-output: html_document
+output:
+  html_document:
+    theme: journal
 ---
 The complete project is documented here.
 
